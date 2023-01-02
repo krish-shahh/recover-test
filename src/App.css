@@ -42,3 +42,13 @@
   color: #fff;
   font-size: 100px;
 }
+
+.resources {
+  height: 200vh;
+  justify-content: center;
+  text-align: center;
+
+  background-color: rgb(6, 39, 96);
+  color: #fff;
+  font-size: 30px;
+}
